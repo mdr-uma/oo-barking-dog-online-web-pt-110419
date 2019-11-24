@@ -15,5 +15,5 @@ class Dog
 end
 
 dog_name = Dog.new
-dog_name.name
-dog_name.bark
+# dog_name.name
+# dog_name.bark
