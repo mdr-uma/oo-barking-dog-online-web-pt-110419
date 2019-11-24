@@ -13,3 +13,7 @@ class Dog
 
   end
 end
+
+dog_name = Dog.new
+dog_name.name
+dog_name.bark
